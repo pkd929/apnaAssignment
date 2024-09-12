@@ -1,0 +1,3 @@
+{
+    "connectionString": "mongodb+srv://root:root@dsaapp.dzwq2.mongodb.net/?retryWrites=true&w=majority&appName=dsaapp"
+}
